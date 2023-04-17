@@ -1,5 +1,4 @@
 function Cart() {
-    console.log('first')
 	const monsteraPrice = 8
 	const ivyPrice = 10
 	const flowerPrice = 15
